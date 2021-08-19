@@ -1,4 +1,4 @@
-module github.com/blendle/zapdriver
+module github.com/kostyay/zapdriver
 
 go 1.16
 

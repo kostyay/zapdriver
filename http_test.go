@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/blendle/zapdriver"
+	"github.com/kostyay/zapdriver"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/zap"
 )
